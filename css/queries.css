@@ -3,8 +3,7 @@
 }
 /* 480px (WVGA - Low End Windows Phone) */
 @media screen and (max-width:480px) {
-	.wrapper { background: #f3f5f8; height: 640px; }
-	.iphone { display: none; }
+	.wrapper { background: #f3f5f8; height: 800px; }
 	.fluid-white { display: none; }
 	.wp2, .wp4, .wp5, .light-box { margin-bottom: 30px; }
 	.legals { text-align: center; margin: 0; padding: 0; }
